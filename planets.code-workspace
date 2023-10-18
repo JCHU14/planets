@@ -1,0 +1,58 @@
+{
+  "folders": [
+    {
+      "path": "client",
+      "name": "client"
+    },
+    {
+      "path": "server",
+      "name": "server"
+    }
+  ],
+  "settings": {
+    "editor.suggestSelection": "first",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "files.exclude": {
+      "**/.nyc_*": true,
+      "**/coverage": true,
+      "**/node_modules": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#e491a2",
+      "activityBar.background": "#e491a2",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#33801f",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#15202b99",
+      "sash.hoverBorder": "#e491a2",
+      "statusBar.background": "#da6880",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#d03f5e",
+      "statusBarItem.remoteBackground": "#da6880",
+      "statusBarItem.remoteForeground": "#15202b",
+      "titleBar.activeBackground": "#da6880",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#da688099",
+      "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#da6880"
+  }
+}
